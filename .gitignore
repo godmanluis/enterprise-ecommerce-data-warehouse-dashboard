@@ -1,0 +1,37 @@
+# .gitignore
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Editors
+.vscode/
+.idea/
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.bak
+*.log
+
+# Power BI temp files
+*.pbix
+*.pbit
+*.tmp
+
+# PostgreSQL dumps
+*.sql.gz
+*.dump
+
+# Environment
+.env
+.env.*
