@@ -4,8 +4,10 @@ A portfolio-grade analytics project built to centralize fragmented commerce data
 
 This project demonstrates how a modern data warehouse and BI layer can turn operational data silos into a single source of truth for sales, profitability, logistics, and executive decision-making.
 
-- Live Power BI Report Demo: [Insert Your Public Power BI Web Link Here]
+- Live Power BI Report Demo: https://app.powerbi.com/view?r=YOUR_PUBLIC_LINK_HERE
+
 - Source Code Repo: https://github.com/godmanluis/enterprise-ecommerce-data-warehouse-dashboard
+
 - GitHub Profile: https://github.com/godmanluis
 
 ## Project Summary
